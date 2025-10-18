@@ -1,0 +1,19 @@
+# Verum Omnis Web API & Frontend
+
+**Stateless, hash-first forensic API + website**
+🔗 [Live Demo](https://your-project.web.app) | 📄 [OpenAPI Docs](/api/docs)
+
+---
+
+## **🚀 Quick Start**
+
+### **1. Prerequisites**
+- Node.js **v20+**
+- Firebase CLI (`npm install -g firebase-tools`)
+- A Firebase project (set up [Hosting + Functions](https://firebase.google.com/docs/hosting))
+
+### **2. Clone & Install**
+```bash
+git clone https://github.com/your-org/verum-omnis.git
+cd verum-omnis
+npm ci
